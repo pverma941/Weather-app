@@ -1,8 +1,8 @@
 import axios from "axios";
 import "bootstrap/dist/css/bootstrap.min.css"
 import { useState } from "react";
-import './App.css';
-import Logo from './weather.png';
+import './App.css' ;
+import Logo from './weather.png' ;
 
 function App() {
   const apikey="d8592fcca7cc1b0a43dbf1ab0011688c"
